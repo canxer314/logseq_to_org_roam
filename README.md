@@ -91,7 +91,7 @@ python logseq_to_org_roam.py ~/logseq-notes ~/org-roam-notes --verbose
 
 ## Support
 
-For issues or feature requests, please [open an issue](https://github.com/canxer314/issues).
+For issues or feature requests, please [open an issue](https://github.com/canxer314/logseq_to_org_roam/issues).
 
 ---
 
